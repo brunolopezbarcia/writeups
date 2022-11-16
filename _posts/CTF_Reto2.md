@@ -1,13 +1,13 @@
 ---
 title: 'Reto 2 CTF'
 excerpt: 'En este CTF tenemos que averiguar la palabra clave que esta contenida en un fichero comprimido en un zip; este zip esta corrupto, por lo que debemos de primero de corregir el ZIP'
-coverImage: ''
+coverImage: '/assets/blog/CTF_RETO2/img/cover.jpeg'
 date: '2022-11-16T12:35:07.322Z'
 author:
   name: Bruno Lopez Barcia
   picture: 'https://avatars.githubusercontent.com/u/78624459?v=4'
 ogImage:
-  url: '/assets/blog/CTF_RETO2/1.jpeg'
+  url: ''
 ---
 
 ---
